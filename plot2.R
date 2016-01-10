@@ -13,3 +13,6 @@ plot(graphs_data$Time, graphs_data$Global_active_power, type = "l", xlab = "", y
 
 dev.copy(png,file="plot2.png", width=480,height=480)
 dev.off()
+
+
+
