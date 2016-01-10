@@ -21,5 +21,3 @@ plot(graphs_data$Time, graphs_data$Global_reactive_power, type = "l", xlab = "da
 dev.copy(png,file="plot4.png", width=480,height=480)
 dev.off()
 
-
-
